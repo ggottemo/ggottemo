@@ -1,7 +1,7 @@
 
  <div align="left">
    
-<a href="https://app.daily.dev/ggottemo"><img src="https://api.daily.dev/devcards/6193f9b209b1476685b231b1ae29eecd.png?r=t0t" width="350" align="right" alt="George Gottemoeller's Dev Card"/></a>
+<a href="https://app.daily.dev/ggottemo"><img src="https://github.com/ggottemo/ggottemo/blob/main/devcard.svg" width="350" align="right" alt="George Gottemoeller's Dev Card"/></a>
  
 </div>
 
