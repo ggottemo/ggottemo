@@ -5,7 +5,7 @@
  
 </div>
 
-# Hello there, Welcome to My Profile! 👋    
+# Hi there, Welcome to My Profile! 👋    
 
 I'm George, a proficient Software Developer specialized in JavaScript/React, Python, TypeScript, and C#. My passion lies in navigating the ever-changing tech landscape, experimenting with new technologies and continually advancing my competencies within new models of thinking.
  
